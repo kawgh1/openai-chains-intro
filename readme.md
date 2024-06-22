@@ -1,5 +1,10 @@
 ### This is from Stephen Grider's course on Open AI, GPT, LangChain, etc. [here](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass)
 
+### What is LangChain?
+
+- https://www.langchain.com/
+- LangChain is a framework designed to simplify and enhance the development of applications that use language models (LLMs) like GPT-3, GPT-4, and others. It provides a suite of tools and components that help developers build sophisticated applications by managing various aspects of interaction with LLMs, such as prompt engineering, context management, and integration with other tools and services.
+
 ### LangChain Overview
 
 ![LangChainOverview](https://raw.githubusercontent.com/kawgh1/openai-chains-intro/main/LangChain%20Chain%20Overview.png)
