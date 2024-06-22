@@ -6,6 +6,8 @@
 
 #### First Haiku
 
+- Also, the API Key is dead :)
+
 ![FirstHaiku](https://raw.githubusercontent.com/kawgh1/openai-chains-intro/main/First%20Poem%20from%20OpenAI%20API%20Key%20-%20June%202024-2.png)
 
 ### Sequential Chaining Overview
